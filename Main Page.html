@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<script src="script.js">
+	</script>
+	<link href="style.css" rel="stylesheet" type="text/css">
+	<title>joolia's</title>
+</head>
+<body onload="mainPageStartup()">
+	<div id="wrapper">
+		<!-- header and navigation bar -->
+		<header id="js-header">
+			<div class="top-Bar">
+				<a href="Main%20Page.html"> <h1 id="logo">joolia's</h1> </a> 
+				<input id="productList" list="all-products" oninput="onInput()" placeholder="&#128270; I am searching for..."> 
+				<datalist id="all-products"> </datalist>
+				
+				<nav id="top-nav">
+					<a href="View%20All%20Products.html">Shop All Categories</a> <a href="Shopping%20Cart.html"><img alt="Shopping Cart" src="pics/cartIcon.png"></a>
+				</nav>
+			</div>
+		</header>
+		<div id="bottom-bar">
+			<nav id="bottom-nav">
+				<ul id="categoryList"></ul>
+			</nav>
+		</div>
+		<!-- main components of page -->
+		<div class="main">
+			<div class="heroImage">
+				<button type="button" onclick="location.href='View%20All%20Products.html';">Shop Now</button>
+			</div>
+			<div class="bestBetsTitle">
+				<h2>Best Bets</h2>
+			</div>
+			<div id = "bestBets"></div>
+			<div class="weeklyTitle">
+				<h2>Weekly</h2>
+			</div>
+			<div id = "weekly"></div>
+			<footer>
+				<p>&copy; AJA 2017 ICS3U. ALL RIGHTS RESERVED</p>
+				<h2>CONTACT US</h2>
+				<ul>
+					<li>&#9743; 416-800-9303</li>
+					<li>&#9993; info@joolias.ca</li>
+					<li>
+						<address>
+							&#128204; 2956 Dufferin Street<br>
+							Toronto ON<br>
+							M6H 4B6<br>
+						</address>
+					</li>
+				</ul>
+			</footer>
+			</div>
+			<!-- Scroll to top button -->
+			<button id="myBtn" onclick="topFunction(400)" title="Go to top">Top</button>
+			
+		</div>
+</body>
+</html>

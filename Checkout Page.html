@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<script src="script.js"></script>
+	<link href="style.css" rel="stylesheet" type="text/css">
+	<title>joolia’s - Checkout</title>
+</head>
+
+<body onload="individualCategoryStartup()">
+	<div id="wrapper">
+		<!-- header and navigation -->
+		<header id="js-header">
+			<div class="top-Bar">
+				<a href="Main%20Page.html"> <h1 id="logo">joolia's</h1> </a> 
+				<input id="productList" list="all-products" oninput="onInput()" placeholder="&#128270; I am searching for..."> 
+				<datalist id="all-products"> </datalist>
+				
+				<nav id="top-nav">
+					<a href="View%20All%20Products.html">Shop All Categories</a> <a href="Shopping%20Cart.html"><img alt="Shopping Cart" src="pics/cartIcon.png"></a>
+				</nav>
+			</div>
+		</header>
+		
+		<div id="bottom-bar">
+			<nav id="bottom-nav">
+				<ul id="categoryList"></ul>
+			</nav>
+		</div>
+		<!-- main components of page -->
+		<div class="main">
+			<div id="checkout">
+				<div>
+					<form id="checkout-form" name="checkout-form" onsubmit="alertText()">
+						<div id="form-section1">
+							<h2 class="steps">1. Billing Address</h2><input class="checkout-field" placeholder="First Name*" required="" type="text"> <input class="checkout-field" placeholder="Last Name*" required="" type="text"><br>
+							<input class="checkout-field" placeholder="Company" type="text"> <input class="checkout-field" placeholder="Email Address*" required="" type="text"><br>
+							<input class="checkout-field" placeholder="Address*" required="" type="text"><br>
+							<input class="checkout-field" placeholder="Unit/Apt #" type="text"><br>
+							<input class="checkout-field" placeholder="City*" required="" type="text"> 
+							<select class="checkout-field" form="checkout-form" required="">
+								<option disabled hidden="" selected value="" >
+									Province/Territory*
+								</option>
+								<option value="Alberta">
+									Alberta
+								</option>
+								<option value="British Columbia">
+									British Columbia
+								</option>
+								<option value="Manitoba">
+									Manitoba
+								</option>
+								<option value="New Brunswick">
+									New Brunswick
+								</option>
+								<option value="Newfoundland and Labrador">
+									Newfoundland and Labrador
+								</option>
+								<option value="Northwest Territories">
+									Northwest Territories
+								</option>
+								<option value="Nova Scotia">
+									Nova Scotia
+								</option>
+								<option value="Nunavut">
+									Nunavut
+								</option>
+								<option value="Ontario">
+									Ontario
+								</option>
+								<option value="PEI">
+									Prince Edward Island
+								</option>
+								<option value="Quebec">
+									Quebec
+								</option>
+								<option value="Saskatchewan">
+									Saskatchewan
+								</option>
+								<option value="Yukon">
+									Yukon
+								</option>
+							</select><br>
+							<input class="checkout-field" placeholder="Postal Code*" required="" type="text"> <input class="checkout-field" placeholder="Telephone*" required="" type="text"><br>
+							<input class="checkout-field" placeholder="Password*" required="" type="password">
+							
+							<h2 class="steps">2. Shipping Method</h2>
+							<fieldset id="shipping-type">
+								<p>Pick a shipping service</p><input name="shipping-type" onchange="calculateTotal()" required="" type="radio" value="6"> Standard (4-5 days) - $6.00<br>
+								<input name="shipping-type" onchange="calculateTotal()" type="radio" value="8"> Two-Day Express - $8.00<br>
+								<input name="shipping-type" onchange="calculateTotal()" type="radio" value="10"> One-Day Express - $10.00<br>
+								<input name="shipping-type" onchange="calculateTotal()" type="radio" value="15"> <b>Same-Day Express - $15.00</b>
+							</fieldset>
+						</div>
+						
+						<div id="form-section2">
+							<h2 class="steps">3. Payment Method</h2>
+							<fieldset id="pay-method">
+								<input name="pay-method" required="" type="radio"> Check / Money order<br>
+								<input name="pay-method" type="radio"> Credit card<br>
+								<input name="pay-method" type="radio"> Purchase Order<br>
+								<input name="pay-method" type="radio" value="same-day-exp"> Paypal
+							</fieldset>
+							<h2 class="steps">4. Order Review</h2><a href="Shopping%20Cart.html">Edit shopping cart</a> 
+							<table id="overview-table">
+								<tr id="subtotal">
+									<td>Subtotal</td>
+									<script>
+										printSubtotal();
+									</script>
+								</tr>
+								<tr>
+									<td>Shipping Method</td>
+									<td>$0.00</td>
+								</tr>
+								<tr>
+								  <td>Total</td>
+								  <td>$0.00</td>
+								</tr>
+							</table><input id="checkout-button" type="submit" value="Place Order">
+						</div>
+					</form>
+				</div>
+			</div>
+			<!-- Scroll to top button -->
+				<button onclick="topFunction(400)" id="myBtn" title="Go to top">Top</button>
+			<footer>
+				<p>&copy; AJA 2017 ICS3U. ALL RIGHTS RESERVED</p>
+				<h2>CONTACT US</h2>
+				<ul>
+				  <li>&#9743; 416-800-9303</li>
+				  <li>&#9993; info@joolias.ca</li>
+				  <li>
+					<address>
+					  &#128204; 2956 Dufferin Street<br>
+					  Toronto ON<br>
+					  M6H 4B6<br>
+					</address>
+				  </li>
+				</ul>
+			</footer>
+		</div>
+	</div>
+</body>
+</html>
+

@@ -1,0 +1,50 @@
+42699, Royal Gala Apples, Fresh Produce, PC Organics, A sweet@ medium-sized apple with yellow to orange flesh and a red blush., $1.77, pics\42699.jpg
+25559, Organic Avocado, Fresh Produce, Longo's, A nutrient dense@ fresh fruit that can be used in salads@ sushi@ sandwiches@ and so much more., $1.59, pics\25559.jpg
+37907, Dry Roasted peanuts, Fresh Produce, Planters, Prepared peanuts that make for a great snack., $4.00, pics\37907.jpg
+96794, Navel Oranges, Fresh Produce, Longo's, Juicy@ fresh oranges., $0.99, pics\96794.jpg
+67137, Organic Carrots, Fresh Produce, Earthbound Farm Organic, A crunchy snack that's also perfect for cooking., $3.49, pics\67137.jpg
+27302, Tomato Clusters on the Vine, Fresh Produce, Longo's, Tomatoes with a delicious flavour@ rich red colour@ and the perfect size and texture., $4.50, pics\27302.jpg
+02637, Organic Strawberries, Fresh Produce, Driscoll's, Delicious@ fresh@ handpicked strawberries., $4.99, pics\02637.jpg 
+15736, Smoked Salmon, Meat and Seafood, Sea Eagle, Norwegian prepackaged salmon, $5.35, pics\15736.jpg
+52312, Fresh Boned Cod Fillet, Meat and Seafood, Chelsea, Boned cod fillet perfect for cooking., $9.90, pics\52312.jpg
+36363, Halal Chicken Leg Quarters, Meat and Seafood, Mina, Fresh hand slaughtered@ halal chicken leg quarters., $7.50, pics\36363.jpg
+64522, Lean Ground Beef, Meat and Seafood, Longo's, Fresh Grade A lean ground beef., $5.49, pics\64522.jpg
+08201, Boneless Chicken Breasts, Meat and Seafood, Maple Leaf Prime, Raised without antibiotics., $12.50, pics\08201.jpg
+37840, Sweet Italian Pork Sausages, Meat and Seafood, Longo's, Signature pork sausages made from a special recipe., $5.99, pics\37840.jpg
+76006, Ice cream sandwich, Frozen, Klondike, Vanilla light ice cream between two chocolate wafers., $4.99, pics\76006.jpg
+81646, Orange juice concentrate, Frozen, Minute Maid, Frozen concentrated real fruit beverage., $1.99, pics\81646.jpg
+17395, Vintage 4 cheese pizza, Frozen, Delissio, Frozen pizza topped with mozzarella@ parmesan@ asiago and romano cheeses., $5.49, pics\17395.jpg
+50099, Organic Chicken Pot Pie, Frozen, Yorkshire Valley Farms, A healthy frozen meal that's quick and easy to make., $2.48, pics\50099.jpg
+85603, Eggo Waffles - Blueberry, Frozen, Kellogg's, A light@ crispy texture and the perfect amount of blueberry flavour to give every day a berry-good start!, $2.99, pics\85603.jpg 
+28336, Frozen Strawberries, Frozen, Longo's, Frozen strawberries perfect to use in smoothies@ desserts@ and as a topping for snacks., $4.99, pics\28336.jpg
+57653, Large White Golden Eggs, Eggs and Dairy, GoldEgg, Large eggs that are a rich source of nutrients., $5.80, pics\57653.jpg
+54903, Probiotic Yogurt, Eggs and Dairy, IOGO, Probiotic yogurt that contains more than 1 billion probiotics per 100 grams., $5.97, pics\54903.jpg 
+58320, Milk, Eggs and Dairy, Neilson, 2% partly skimmed milk., $4.27, pics\58320.jpg
+02413, Cheestrings, Eggs and Dairy, Black Diamond, Mozzarella marble cheestrings., $6.64, pics\02413.jpg
+99275, Cool Whip Aero, Eggs and Dairy, Kraft, Whipped cream in an aerosol can., $2.99, pics\99275.jpg
+49129, Becel Vegan Margarine, Eggs and Dairy, Becel, Free from artificial preservatives@ flavours and colours. Made with all vegan ingredients., $4.20, pics\49129.jpg
+38355, Caramel Hard Candies, Snacks, Werthers, Smooth caramel candy that will melt in your mouth!, $2.00, pics\38355.jpg
+71836, Chocolate Chip Granola Bars, Snacks, Quaker, Chewy granola bar with chocolate chips that makes for a great snack., $2.50, pics\71836.jpg
+64652, Skittles Bite Size Candies, Snacks, Skittles, Catch the rainbow. Taste the rainbow., $2.66, pics\64652.jpg
+61031, Chocolate Eggs, Snacks, Hersheys, Creamy milk chocolate easter eggs., $2.50, pics\61031.jpg
+26512, Mars Chocolate Bars, Snacks, Mars, Thick chewy caramel with milk chocolate. Peanut free., $3.97, pics\26512.jpg
+47900, Kinder Surprise Chocolate, Snacks, Kinder Surprise, Delicious chocolate egg with an imaginative toy inside., $3.17, pics\47900.jpg  
+27104, Glaceau Smart Water, Drinks, Coca-Cola, Water that's crisp@ delicious@ and pure., $1.99, pics\27104.jpg
+99882, Original Roast Ground Coffee, Drinks, Maxwell House, Full-bodied with balanced flavour and a satisfying aroma., $7.50, pics\99882.jpg
+04356, Thirst Quencher Crystals - Lemon Lime, Drinks, Gatorade, This formula of electrolytes@ carbohydrates@ and flavour@ was specifically designed to hydrate athletes., $6.99, pics\04356.jpg
+38795, Coca-Cola Drink, Drinks, Coca-Cola, Everyone's favourite drink., $4.97, pics\38795.jpg
+21398, Ocean Spray Cran-Raspberry 1.89L, Drinks, Ocean Spray, A refreshing drink that contains no artificial preservatives@ flavours or colourings., $4.99, pics\21398.jpg
+78668, Tetley Pure Green Tea- 24 Bags, Drinks, Tetley, Exquisite flavour obtained from gently pan-fired green tea leaves., $3.99, pics\78668.jpg
+56941, Vanilla Frappuccino, Drinks, Starbucks, The lowfat taste of coffee@ real milk and vanilla@ chilled to perfection., $2.99, pics\56941.jpg
+65498, Cocoa Chips, Pantry, Ghirardelli, 60% cacao@ bittersweet chocolate premium baking chips., $4.99, pics\65498.jpg
+10353, Ketchup, Pantry, Heinz, America's Favorite Ketchup., $6.49, pics\10353.jpg 
+53069, Rainbow Sprinkles - Round, Pantry, Cake Mate, The perfect topping for cakes@ cupcakes@ and ice cream., $2.99, pics\53069.jpg
+17353, Virgin Olive Oil, Pantry, Longo's, Rich flavour great for brushing meats and veggies before they hit the grill., $11.99, pics\17353.jpg 
+39872, Stand N Stuff Taco Shells, Pantry, Old El Paso, Shells that don't fall over and the filling doesn't fall out., $3.49, pics\39872.jpg
+23455, Chocolate Chip Cookies, Pantry, Longo's, Gourmet cookies baked in store., $4.99, pics\23455.jpg
+86338, Vegetable Mix, Prepared Goods, Longo's, Contains cabbage@ white onion@ broccoli@ edamame@ carrots@ kale., $3.99, pics\86338.jpg
+07028, Fresh Broccoli Florettes, Prepared Goods, Longo's, A fresh broccoli for a good health and a full stomach., $3.99, pics\07028.jpg
+37111, Four Corner Mixed Vegetables With Dip, Prepared Goods, Longo's, Hand-cut broccoli and cauliflower florettes with baby carrots and celery sticks. Served with Ranch dressing., $4.99, pics\37111.jpg 
+83875, Baguette, Prepared Goods, Stonemill, Fresh baked baguette. 100% real@ GMO-Free., $3.29, pics\83875.jpg
+20250, Caesar Croutons, Prepared Goods, Catham Village, The perfect topping for a classic Caesar Salad., $3.69, pics\20250.jpg 
+20773, Chicken Burrito, Prepared Goods, Longo's, A delicious meal@ made in store., $4.99, pics\20773.jpg
